@@ -92,17 +92,6 @@
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelleeerrrr&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelleeerrrr&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 <!-- ===================== LEARNING ===================== -->
 
 ## 🌱 Currently Learning
